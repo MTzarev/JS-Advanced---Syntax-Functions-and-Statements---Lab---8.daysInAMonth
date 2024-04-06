@@ -5,4 +5,3 @@ date.setDate(0)
     console.log(date.getDate());
 }
 daysInMonth(1, 2012);
-daysInMonth(2, 2021);
