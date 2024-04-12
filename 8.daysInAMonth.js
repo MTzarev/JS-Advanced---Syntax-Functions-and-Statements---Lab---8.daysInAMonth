@@ -4,4 +4,5 @@ date.setMonth(date.getMonth()+1);
 date.setDate(0);
     console.log(date.getDate());
 }
+
 daysInMonth(1, 2012);
